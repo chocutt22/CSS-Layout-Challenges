@@ -10,3 +10,19 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.nebula1-img {
+	float: left;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 300px;
+}
+
+.nebula2-img {
+	float: right;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 300px;
+}
